@@ -1,86 +1,87 @@
 # AbdullahRagheb.github.io
-# Retinal Disorder Classification Using Optical Coherence Tomography (OCT) Images
+# Full stack Data Scientist
 
-## Project Overview
+### Technical Skills
+- **Languages/Tools:** 
+Programming Languages: Python, C, C++, JavaScript, HTML, PHP
+Databases: MySQL, PostgreSQL, MongoDB, MongoDB Atlas, NoSQL
+Machine Learning & Data Analysis: Pandas, PySpark, Scikit-learn, PyTorch, TensorFlow, NLP
+Data Engineering & Cloud Computing: ETL, Apache Airflow, AWS, Azure, Google Cloud Platform Frameworks & Tools: Flask, Django, FastAPI, Docker, Git, Postman
+Data Management: Data sourcing, preparation, model design, training, and deployment, API integrations
 
-This project focuses on the detection and classification of retinal disorders using Optical Coherence Tomography (OCT) images. The study aims to categorize patients into four groups: Choroidal Neovascularization (CNV), Diabetic Macular Edema (DME), Drusen, and Normal. Two novel transfer learning-based techniques, **VGG16** and **Inception V3 Net**, were applied for the first time to tackle this classification challenge. The project leverages a large dataset of OCT images and achieves state-of-the-art accuracy in identifying retinal disorders.
+---
 
-## Problem Statement
+## Education
+- **civil engineering** - El shrouck Acadamy
 
-Retinal disorders such as CNV, DME, and Drusen are leading causes of vision impairment and blindness. Early detection and classification are critical for effective treatment. However, manual diagnosis is time-consuming and requires expert knowledge. This project addresses the challenge by applying machine learning, specifically transfer learning, to automatically classify retinal disorders from OCT images.
+---
 
-## Project Goals
+## Work Experience
+
+### Data Scientist @ ABBOTT (May 2022 - Present)
+- Transitioned from data entry to data scientist, applying advanced data analysis techniques.
+- Developed machine learning models to optimize operational workflows and decision-making processes.
+- Worked with cloud platforms (AWS) and big data tools to deploy scalable AI solutions.
+
+### Data Specialist @ SR-Creations  (June 2023 - Present)
+-Analyzed large datasets and created visual reports to enhance decision-making processes. 
+Built automated ETL pipelines for data collection and transformation using PySpark and Airflow. Implemented real-time data insights into interactive dashboards for internal use.
+
+### Founder, Creator @ CodeCraft Data  (Jan 2024 – Present)
+
+- Established an educational website specializing in data science tutorials and resources.
+- Developed the website using Flask, with a PostgreSQL database, integrating AI-powered tools for educational purposes.
+- Provided hands-on tutorials on data science, machine learning, and AI implementation for learners.
+
+---
+
+## Projects
+
+## [Retinal Disorder Classification Using Optical Coherence Tomography (OCT) Images:](https://github.com/AbdullahRagheb/retinal-disorders-detection)
+
 - Categorize patients into four classes: CNV, DME, Drusen, and Normal using OCT images.
 - Leverage transfer learning techniques (VGG16 and Inception V3 Net) for accurate classification.
 - Achieve high accuracy, surpassing traditional methods and even human experts in some cases.
 
-## Data Sources
+## [AI Language Translation System:](https://github.com/AbdullahRagheb/Google_translate_codealpha)
 
-1. **OCT Images Dataset**:
-   - **VGG16 Model**: 20,000 OCT images were used for training and testing.
-   - **Inception V3 Net**: 18,000 OCT images were used for data partitioning.
-   
-The dataset contains labeled OCT images across the four categories: CNV, DME, Drusen, and Normal.
+- Developed a Python-based AI-powered language translation tool using NLP techniques and machine learning models.
+- Implemented the solution with PyTorch, integrating it into a Flask-based web application for real-time translation.
 
-## Images of Retinal Diseases
+## [Big Data Analysis & Machine Learning (PySpark):](https://github.com/AbdullahRagheb/ML-anaylsis-for-Big-Data)
 
-Images of various retinal diseases identified through the clinical trials using the ODF-based SD-OCT system. The OCT images display key retinal regions including:
+- Conducted data analysis and machine learning on large datasets using PySpark.
+- Implemented machine learning algorithms to predict trends and patterns in big data, optimizing processes for a variety of industries.
 
-- **ELM**: External Limiting Membrane
-- **PCV**: Polypoidal Choroidal Vasculopathy
-- **RPE**: Retinal Pigment Epithelium
-- **CSR**: Central Serous Retinopathy
-- **PED**: Pigment Epithelium Detachment Region
-- **CME**: Cystoid Macular Edema
+## Real Estate Price Prediction Tool (Egypt):
+- Created a machine learning model to predict apartment prices in Egypt based on features such as area size, location, and amenities.
+- The model was built using Python, Pandas, and Scikit-learn, with a Flask web interface for user interaction.
 
-![image.png](attachment:00225242-fed7-4dff-bc94-0cd96f24d8a3.png)
+---
 
-## Methods
+## CERTIFICATIONS
 
-### 1. **Transfer Learning Models**
-   - **VGG16**: Pre-trained on ImageNet, the model was fine-tuned for OCT image classification.
-   - **Inception V3 Net**: Also pre-trained on ImageNet and adapted for the same task.
-   - **Modified SqueezeNet**: A customized model used to further improve classification accuracy.
+MongoDB Atlas Administrator Path | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-248ed791-37b4-4ebf-a11c-f4ba1828a395-certificate.pdf) 
+MongoDB Database Metrics & Monitoring | Completed: June 28, 2024 MongoDB Atlas Backup & Recovery | Completed: June 28, 2024 MongoDB Atlas Administration | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-827e42a5-356d-4770-bce1-516724912c89-certificate.pdf) 
+MongoDB Atlas Security | Completed: June 22, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-ef8ac10c-d366-4c11-b088-d636e1856de5-certificate.pdf) 
+Replication in MongoDB | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-a6ea6b22-b93b-4e0a-bdb1-fae16a5d3932-certificate.pdf) 
+MongoDB and the Document Model | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-69303a3f-8d55-456d-b6e5-c2b9e29e10fc-certificate.pdf) 
+Intermediate Python | Completed: September 10, 2023 [show credential](https://www.datacamp.com/statement-of-accomplishment/course/f79b93c524298f18dc6d808e8902ec56dfc0ab22?raw=1) 
+Joining Data in SQL | Completed: September 23, 2023 [show credential](https://www.datacamp.com/statement-of-accomplishment/course/f2706535f5972ef16c6cefb9a756c34a3522bc5e?raw=1) 
+Data Communication Concepts | Completed: September 21, 2023 [show credential](https://www.datacamp.com/statement-of-accomplishment/course/9b3363be60bfff2b13f4e817defb150bcc81d0b8?raw=1) 
+Understanding Data Visualization | Completed: September 21, 2023 [show credential](https://www.datacamp.com/statement-of-accomplishment/course/c3c72ea63d62511ca0e65c0cd47298954ca5985c?raw=1) 
+Introduction to Statistics | Completed: September 21, 2023 [show credential](https://www.datacamp.com/statement-of-accomplishment/course/80da6c53ff842f91d528edd02af29a67d049238c?raw=1) 
 
-### 2. **Performance Evaluation**
-   - The modified **SqueezeNet** model achieved an impressive accuracy of **99.06%**.
-   - The robustness of the transfer learning approach was demonstrated by outperforming traditional classifiers and even a human expert.
+---
 
-## Installation
+## Publications
+coming soon
 
-To run this project locally, follow these steps:
+---
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AbdullahRagheb/retinal-disorders.git
-2. Navigate to the project directory:
+## Data Science Blog & YouTube
+- Visit [CodeCraftData](CodeCraftData.site) for insights on machine learning, data science techniques, and more.
 
-   ```bash
-   cd retinal-disorders-detection
-
-Major Dependencies:
-Python 3.x
-NumPy: For numerical computations
-Pandas: For data handling and manipulation
-Scikit-learn: For machine learning model training
-OpenCV: For computer vision and image preprocessing
-Matplotlib / Seaborn: For data visualization
-TensorFlow / PyTorch (if using neural networks)
-Contributing
-We welcome contributions! Please follow these steps if you'd like to contribute:
-
-Fork the project repository.
-Create a new feature branch (git checkout -b feature-branch).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Submit a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
 For any inquiries or issues, feel free to contact the project team at abdullahragheb12@icloud.com.
-
-vbnet
-Copy code
-
-This complete `README.md` covers everything from the project description, installat
