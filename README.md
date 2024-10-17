@@ -62,9 +62,11 @@ Built automated ETL pipelines for data collection and transformation using PySpa
 ## CERTIFICATIONS
 
 MongoDB Atlas Administrator Path | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-248ed791-37b4-4ebf-a11c-f4ba1828a395-certificate.pdf) 
-MongoDB Database Metrics & Monitoring | Completed: June 28, 2024 MongoDB Atlas Backup & Recovery | Completed: June 28, 2024 MongoDB Atlas Administration | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-827e42a5-356d-4770-bce1-516724912c89-certificate.pdf) 
+MongoDB Database Metrics & Monitoring | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-a6ea6b22-b93b-4e0a-bdb1-fae16a5d3932-certificate.pdf) 
+MongoDB Atlas Backup & Recovery | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-a6690952-41ed-4221-9b93-aee27cc26dfe-certificate.pdf) 
+MongoDB Atlas Administration | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-55794db7-491f-4dd9-920e-d484580c1493-certificate.pdf) 
 MongoDB Atlas Security | Completed: June 22, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-ef8ac10c-d366-4c11-b088-d636e1856de5-certificate.pdf) 
-Replication in MongoDB | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-a6ea6b22-b93b-4e0a-bdb1-fae16a5d3932-certificate.pdf) 
+Replication in MongoDB | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-827e42a5-356d-4770-bce1-516724912c89-certificate.pdf) 
 MongoDB and the Document Model | Completed: June 28, 2024 [show credential](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/41c6f58e-49a2-4880-8c69-a91b2cdfae78-abdullah-ragheb-69303a3f-8d55-456d-b6e5-c2b9e29e10fc-certificate.pdf) 
 Intermediate Python | Completed: September 10, 2023 [show credential](https://www.datacamp.com/statement-of-accomplishment/course/f79b93c524298f18dc6d808e8902ec56dfc0ab22?raw=1) 
 Joining Data in SQL | Completed: September 23, 2023 [show credential](https://www.datacamp.com/statement-of-accomplishment/course/f2706535f5972ef16c6cefb9a756c34a3522bc5e?raw=1) 
@@ -75,7 +77,7 @@ Introduction to Statistics | Completed: September 21, 2023 [show credential](htt
 ---
 
 ## Publications
-coming soon
+COMING SOON
 
 ---
 
