@@ -1,4 +1,5 @@
 # AbdullahRagheb.github.io
+1423-Rabi II-22 (2022-July-3), Egypt, [linkedin](https://www.linkedin.com/in/abdullah-ragheb-97ab08237/)
 # Full stack Data Scientist
 
 ### Technical Skills
